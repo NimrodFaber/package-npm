@@ -1,0 +1,14 @@
+{
+  "name": "closest-hour",
+  "version": "1.0.0",
+  "description": "this app as npm package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nimrod faber",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
